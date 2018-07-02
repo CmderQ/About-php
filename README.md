@@ -5,3 +5,8 @@
 # 学习php的权威资料
 
 [PHP之道](https://github.com/laravel-china/php-the-right-way)
+
+
+# php开发工具-phpstorm
+
+[hpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
