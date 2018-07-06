@@ -15,4 +15,4 @@
 
 # php开发工具-phpstorm
 
-[hpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
+[phpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
