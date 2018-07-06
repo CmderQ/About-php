@@ -10,7 +10,7 @@
 
 # php笔试题
 
-[PHP之道](https://github.com/CmderQ/about-php/tree/master/interview)
+[PHP相关笔试](https://github.com/CmderQ/about-php/tree/master/interview)
 
 
 # php开发工具-phpstorm
