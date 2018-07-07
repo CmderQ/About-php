@@ -8,6 +8,12 @@
 [PHP之道](https://github.com/laravel-china/php-the-right-way)
 
 
+# PHP资源大全
+
+- [PHP资源大全-中文版](https://github.com/jobbole/awesome-php-cn)
+- [PHP资源大全-英文版](https://github.com/ziadoz/awesome-php)
+
+
 # php框架学习资料集合
 
 - [Yii2干货集](https://github.com/forecho/awesome-yii2)
