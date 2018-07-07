@@ -9,6 +9,7 @@
 
 
 # PHP资源大全
+##### 容包括：库、框架、模板、安全、代码分析、日志、书籍、、经典博文等。
 
 - [PHP资源大全-中文版](https://github.com/jobbole/awesome-php-cn)
 - [PHP资源大全-英文版](https://github.com/ziadoz/awesome-php)
