@@ -3,13 +3,19 @@
 介绍围绕php的相关资料，包括php入门知识，php框架，开发工具，php项目，php笔试，面试及开发的相关经验等等
 
 
+
 # 学习php的权威资料
 
-[PHP之道](https://github.com/laravel-china/php-the-right-way)
+-[PHP之道](https://github.com/laravel-china/php-the-right-way)
+
+
+# php必会的知识
+
+-[PHP依赖包管理](https://github.com/5-say/composer-doc-cn)
 
 
 # PHP资源大全
-##### 内容包括：库、框架、模板、安全、代码分析、日志、书籍、、经典博文等。
+##### 内容包括：库、框架、模板、安全、代码分析、日志、书籍、经典博文等。
 
 - [PHP资源大全-中文版1](https://github.com/jobbole/awesome-php-cn)
 - [PHP资源大全-中文版2](https://github.com/JingwenTian/awesome-php)
