@@ -36,3 +36,7 @@
 
 [PHP程序员在线简历制作](https://github.com/geekcompany/ResumeSample)
 
+
+# 免费的编程中文书籍索引--推荐的程序员必读书籍
+
+[程序员必读书籍](https://github.com/CmderQ/free-programming-books-zh_CN/blob/master/README.md)
