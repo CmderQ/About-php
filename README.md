@@ -11,7 +11,7 @@
 
 # php必会的知识
 
-- [PHP依赖包管理](https://github.com/5-say/composer-doc-cn)
+- [PHP依赖包](https://github.com/CmderQ/about-php/tree/master/composer)
 
 
 # PHP资源大全
