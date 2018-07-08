@@ -6,12 +6,12 @@
 
 # 学习php的权威资料
 
--[PHP之道](https://github.com/laravel-china/php-the-right-way)
+- [PHP之道](https://github.com/laravel-china/php-the-right-way)
 
 
 # php必会的知识
 
--[PHP依赖包管理](https://github.com/5-say/composer-doc-cn)
+- [PHP依赖包管理](https://github.com/5-say/composer-doc-cn)
 
 
 # PHP资源大全
