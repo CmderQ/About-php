@@ -2,7 +2,9 @@
 
 介绍围绕php的相关资料，包括php入门知识，php框架，开发工具，php项目，php笔试，面试及开发的相关经验，程序员书籍等
 
+# php技术成长路线图
 
+- ![avatar](/picture/php进阶之路.jpg)
 
 # 学习php的权威资料
 
