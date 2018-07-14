@@ -4,7 +4,7 @@
 
 # php技术成长路线图
 
-- ![avatar](/picture/php进阶之路.jpg)
+  ![avatar](/picture/php进阶之路.jpg)
 
 # 学习php的权威资料
 
