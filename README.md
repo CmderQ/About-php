@@ -4,7 +4,7 @@
 
 # php技术成长路线图
 
-- [PHP进阶](https://github.com/laravel-china/php-the-right-way)
+- [PHP进阶](https://github.com/CmderQ/about-php/blob/master/improve/%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE.md)
 
 # 学习php的权威资料
 
