@@ -15,6 +15,9 @@
 
 - [PHP依赖包](https://github.com/CmderQ/about-php/tree/master/composer/composer.md)
 
+# php文章精选合集
+
+- [掘金 PHP 文章精选合集](https://www.jianshu.com/p/523a40997b06?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
 # PHP资源大全
 
