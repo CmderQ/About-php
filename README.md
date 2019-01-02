@@ -34,12 +34,12 @@
 ![avatar](/picture/伯乐php资源列表.png)
 <br></br>
 
-- [PHP资源大全-中文版2](https://github.com/JingwenTian/awesome-php)
+- [PHP资源大全-中文版](https://github.com/JingwenTian/awesome-php)
 ![avatar](/picture/中文awesopme.png)
 <br></br>
 
 - [PHP资源大全-英文版](https://github.com/ziadoz/awesome-php)
-![avatar](/picture/英文版php资源大全.png)
+  ![avatar](/picture/英文版php资源大全.png)
 <br></br>
 
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
