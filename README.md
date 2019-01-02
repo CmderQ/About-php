@@ -21,9 +21,15 @@
 
   ![avatar](/picture/掘金php文章集合.png)
 
-- [Github上的PHP文章系列](https://github.com/nemoTyrant/manong/blob/master/category/PHP.md)
+
+- [Github上优秀PHP文章系列](https://github.com/nemoTyrant/manong/blob/master/category/PHP.md)
 
   ![avatar](/picture/category.png)
+
+
+- [PHP | 火丁笔记](https://huoding.com/tag/php)
+
+  ![avatar](/picture/火丁笔记.png)
 
 ### PHP资源大全
 
