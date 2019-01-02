@@ -10,11 +10,6 @@
 - [PHP 最佳实践（译）
 一份简短的关于 PHP 容易混淆知识点的实用指南](https://phpbestpractices.justjavac.com/)
 
-
-### php必会的知识
-
-- [PHP依赖包](https://github.com/CmderQ/about-php/tree/master/composer/composer.md)
-
 ### php文章精选合集
 
 - [掘金 PHP 文章精选合集](https://www.jianshu.com/p/523a40997b06?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
@@ -35,7 +30,8 @@
 
 ##### 内容包括：库、框架、模板、安全、代码分析、日志、书籍、经典博文等。
 
-- [PHP资源大全-中文版1](https://github.com/jobbole/awesome-php-cn)
+- [伯乐上发起的PHP资源大全](https://github.com/jobbole/awesome-php-cn)
+![avatar](/picture/伯乐php资源列表.png)
 
 
 - [PHP资源大全-中文版2](https://github.com/JingwenTian/awesome-php)
