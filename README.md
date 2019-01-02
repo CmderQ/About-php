@@ -68,4 +68,6 @@
 
 ### 免费的编程中文书籍索引--推荐的程序员必读书籍
 
-[程序员必读书籍](https://github.com/CmderQ/free-programming-books-zh_CN/blob/master/README.md)
+- [编程中文书籍索引-PHP书籍](https://github.com/CmderQ/free-programming-books-zh_CN)
+  ![avatar](/picture/php书籍.png)
+  
