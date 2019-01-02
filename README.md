@@ -36,7 +36,12 @@
 ##### 内容包括：库、框架、模板、安全、代码分析、日志、书籍、经典博文等。
 
 - [PHP资源大全-中文版1](https://github.com/jobbole/awesome-php-cn)
+
+
 - [PHP资源大全-中文版2](https://github.com/JingwenTian/awesome-php)
+![avatar](/picture/中文awesopme.png)
+
+
 - [PHP资源大全-英文版](https://github.com/ziadoz/awesome-php)
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
 
