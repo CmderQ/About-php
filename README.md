@@ -81,3 +81,6 @@
 - [编程中文书籍索引-PHP书籍](https://github.com/CmderQ/free-programming-books-zh_CN)
   ![avatar](/picture/php书籍.png)
 
+- [Love2免费书籍索引](https://love2.io/welcome/backend)
+  ![avatar](/picture/love2.png)
+
