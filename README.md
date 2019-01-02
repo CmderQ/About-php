@@ -31,16 +31,17 @@
 ##### 内容包括：库、框架、模板、安全、代码分析、日志、书籍、经典博文等。
 
 - [伯乐上发起的PHP资源大全](https://github.com/jobbole/awesome-php-cn)
-![avatar](/picture/伯乐php资源列表.png)
-<br></br>
+	![avatar](/picture/伯乐php资源列表.png)
+	<br></br>
 
 - [PHP资源大全-中文版](https://github.com/JingwenTian/awesome-php)
-![avatar](/picture/中文awesopme.png)
-<br></br>
+	![avatar](/picture/中文awesopme.png)
+	<br></br>
+
 
 - [PHP资源大全-英文版](https://github.com/ziadoz/awesome-php)
   ![avatar](/picture/英文版php资源大全.png)
-<br></br>
+   <br></br>
 
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
 
