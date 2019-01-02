@@ -7,6 +7,8 @@
 ### 学习php的权威资料
 
 - [PHP之道](https://github.com/laravel-china/php-the-right-way)
+- [PHP 最佳实践（译）
+一份简短的关于 PHP 容易混淆知识点的实用指南](https://phpbestpractices.justjavac.com/)
 
 
 ### php必会的知识
