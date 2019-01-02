@@ -18,6 +18,7 @@
 ### php文章精选合集
 
 - [掘金 PHP 文章精选合集](https://www.jianshu.com/p/523a40997b06?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+  ![avatar](/picture/掘金php文章集合.png)
 
 ### PHP资源大全
 
