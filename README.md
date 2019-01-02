@@ -46,9 +46,19 @@
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
 
 
-### php框架学习资料集合
+### 编程学习的网站，博客集合
 
-- [Yii2干货集](https://github.com/forecho/awesome-yii2)
+- [慕课网](http://www.imooc.com/course/landingpagephp?from=phpkecheng)
+- [CTOLib代码库](https://php.ctolib.com/)
+- [PHPChina中文网](http://www.phpchina.com/)
+- [博客园](https://www.cnblogs.com/)
+- [风雪之隅	](http://www.laruence.com/)
+- [博学无忧	](https://www.bo56.com/category/programming-language/php-programming-language/)
+- [韩天峰的博客](http://rango.swoole.com/)
+- [歪麦博客	](https://www.awaimai.com/)
+- [IT程序员	](https://www.itcodemonkey.com/)
+- [php编程](https://www.zhangshengrong.com/category/php%E6%8A%80%E5%B7%A7/)
+
 
 
 ### php开发工具-phpstorm
