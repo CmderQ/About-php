@@ -61,7 +61,7 @@
 - [IT程序员	](https://www.itcodemonkey.com/)
 - [php编程](https://www.zhangshengrong.com/category/php%E6%8A%80%E5%B7%A7/)
 - [PHP学习资源整理：入门到进阶全系列](https://zhuanlan.zhihu.com/p/49808131)
-
+- [Codecasts.com - Laravel 中文视频网](https://www.codecasts.com/)
 
 ### php开发工具-phpstorm
 
