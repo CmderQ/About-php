@@ -47,6 +47,7 @@
 
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
 - [Learn-Laravel — 学习资料和开源项目集](https://github.com/qianyugang/learn-laravel)
+- [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome)
 
 ### 编程学习的网站，博客集合
 
