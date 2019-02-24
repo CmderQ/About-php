@@ -87,4 +87,5 @@
 
 - [Love2免费书籍索引](https://love2.io/welcome/backend)
   ![avatar](/picture/love2.png)
-
+  
+- [PHP程序员进阶学习书籍参考指南](https://zhuanlan.zhihu.com/p/24069108)
