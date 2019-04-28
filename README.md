@@ -47,8 +47,18 @@
    <br></br>
 
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
-- [Learn-Laravel — 学习资料和开源项目集](https://github.com/qianyugang/learn-laravel)
 - [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome)
+
+
+##### PHP框架以及异步相关
+
+- [Learn-Laravel — 学习资料和开源项目集](https://github.com/qianyugang/learn-laravel)
+
+- Swoole相关
+  - [Swoole官方文档](https://wiki.swoole.com/)
+  - [EasySwoole](https://www.easyswoole.com/Manual/3.x/Cn/_book/)
+  - [Swoft](https://doc.swoft.org/)
+  - [【swoole源码分析】记录对swoole源码探讨的过程](https://segmentfault.com/a/1190000018778508)
 
 ### 编程学习的网站，博客集合
 
