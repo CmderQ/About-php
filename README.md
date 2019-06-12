@@ -80,9 +80,9 @@
 [phpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
 
 
-### php笔试题
+### php笔试面试题
 
-[PHP相关笔试](https://github.com/CmderQ/about-php/tree/master/interview)
+[PHP相关笔试面试](https://github.com/CmderQ/about-php/tree/master/interview)
 ![avatar](/picture/php笔试题.png)
 
 ### php程序员简历如何制作(不局限php程序员)
