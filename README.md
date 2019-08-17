@@ -1,19 +1,19 @@
-# about-php
+# About-php
 
-### php技术成长路线图
+### PHP技术成长路线图
 
 - [PHP进阶](https://github.com/CmderQ/about-php/blob/master/improve/%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE.md)
 - [一名合格的PHP工程师的知识结构是怎样的？](https://www.zhihu.com/question/19875503)
 - [怎样深入学习php，成为php高手？](https://www.zhihu.com/question/19697796)
 - [php学习指南](http://www.notedeep.com/note/30)
 
-### 学习php的权威资料
+### 学习PHP的权威资料
 
 - [PHP之道](https://github.com/laravel-china/php-the-right-way)
 - [PHP 最佳实践（译）
 一份简短的关于 PHP 容易混淆知识点的实用指南](https://phpbestpractices.justjavac.com/)
 
-### php文章精选合集
+### PHP文章精选合集
 
 - [掘金 PHP 文章精选合集](https://www.jianshu.com/p/523a40997b06?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
@@ -62,17 +62,19 @@
 - [PHP学习资源整理：入门到进阶全系列](https://zhuanlan.zhihu.com/p/49808131)
 - [Codecasts.com - Laravel 中文视频网](https://www.codecasts.com/)
 
-### php开发工具-phpstorm
+### PHP开发工具-phpstorm
 
 [phpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
 
 
-### php笔试面试题
+### PHP笔试面试题
 
 [PHP相关笔试面试](https://github.com/CmderQ/about-php/tree/master/interview)
-![avatar](/picture/php笔试题.png)
 
-### php程序员简历如何制作(不局限php程序员)
+### Github上优秀面试资料推荐集合
+- [ colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA)
+
+### PHP程序员简历如何制作(不局限PHP程序员)
 
 [PHP程序员在线简历制作](https://github.com/geekcompany/ResumeSample)
 
