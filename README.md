@@ -37,7 +37,7 @@
 - [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome)
 
 
-##### PHP框架以及异步相关
+### PHP框架以及异步相关
 
 - [Learn-Laravel — 学习资料和开源项目集](https://github.com/qianyugang/learn-laravel)
 
@@ -64,19 +64,19 @@
 
 ### PHP开发工具-phpstorm
 
-[phpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
+- [phpStorm/webStorm 的一些小技巧](https://github.com/CmderQ/phpstorm-webstorm-skills)
 
 
 ### PHP笔试面试题
 
-[PHP相关笔试面试](https://github.com/CmderQ/about-php/tree/master/interview)
+- [PHP相关笔试面试](https://github.com/CmderQ/about-php/tree/master/interview)
 
 ### Github上优秀面试资料推荐集合
 - [ colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA)
 
 ### PHP程序员简历如何制作(不局限PHP程序员)
 
-[PHP程序员在线简历制作](https://github.com/geekcompany/ResumeSample)
+- [PHP程序员在线简历制作](https://github.com/geekcompany/ResumeSample)
 
 
 ### 免费的编程中文书籍索引--推荐的程序员必读书籍
