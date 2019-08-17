@@ -17,34 +17,21 @@
 
 - [掘金 PHP 文章精选合集](https://www.jianshu.com/p/523a40997b06?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
-  ![avatar](/picture/掘金php文章集合.png)
-
-
 - [Github上优秀PHP文章系列](https://github.com/nemoTyrant/manong/blob/master/category/PHP.md)
-
-  ![avatar](/picture/category.png)
-
 
 - [PHP | 火丁笔记](https://huoding.com/tag/php)
 
-  ![avatar](/picture/火丁笔记.png)
 
 ### PHP资源大全
 
 ##### 内容包括：库、框架、模板、安全、代码分析、日志、书籍、经典博文等。
 
 - [伯乐上发起的PHP资源大全](https://github.com/jobbole/awesome-php-cn)
-	![avatar](/picture/伯乐php资源列表.png)
-	<br></br>
 
 - [PHP资源大全-中文版](https://github.com/JingwenTian/awesome-php)
-	![avatar](/picture/中文awesopme.png)
-	<br></br>
-
+	
 
 - [PHP资源大全-英文版](https://github.com/ziadoz/awesome-php)
-  ![avatar](/picture/英文版php资源大全.png)
-   <br></br>
 
 - [PHP开源资源](https://github.com/skykingf/awesome-php)
 - [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome)
@@ -93,9 +80,9 @@
 ### 免费的编程中文书籍索引--推荐的程序员必读书籍
 
 - [编程中文书籍索引-PHP书籍](https://github.com/CmderQ/free-programming-books-zh_CN)
-  ![avatar](/picture/php书籍.png)
+
 
 - [Love2免费书籍索引](https://love2.io/welcome/backend)
-  ![avatar](/picture/love2.png)
+
   
 - [PHP程序员进阶学习书籍参考指南](https://zhuanlan.zhihu.com/p/24069108)
